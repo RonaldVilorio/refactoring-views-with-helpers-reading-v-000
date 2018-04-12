@@ -10,4 +10,3 @@ describe AuthorsHelper do
     end
   end
 end
-
